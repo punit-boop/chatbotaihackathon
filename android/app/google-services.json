@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "191431395760",
+    "project_id": "chat-bot-ai-e4640",
+    "storage_bucket": "chat-bot-ai-e4640.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191431395760:android:49b2baec84b2820b5dee75",
+        "android_client_info": {
+          "package_name": "com.chat.chatbotai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAoqMdnCyOSvOig3JWlPGfL6qVNGXzL-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
